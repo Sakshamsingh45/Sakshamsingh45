@@ -1,17 +1,20 @@
-# <h1 align="center">Hi 👋, I'm Saksham Singh</h1>
+<h1 align="center">Hi 👋, I'm Saksham Singh</h1>
 
-<h3 align="center">Computer Science Undergraduate • AI/ML Specialization • Python Developer</h3>
+<h3 align="center">
+Computer Science Undergraduate • AI/ML Specialization • Python Developer
+</h3>
 
 <p align="center">
-Passionate about solving real-world problems through software engineering, competitive programming, and machine learning.
+Passionate about solving challenging problems through software engineering,
+competitive programming, and machine learning.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/-saksham-singh/">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/saksham-_-singh/">
+<a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -24,12 +27,12 @@ Passionate about solving real-world problems through software engineering, compe
 
 # 🚀 About Me
 
-* 🎓 B.Tech CSE (AI/ML Specialization)
-* 💻 Passionate about Data Structures & Algorithms
-* 🌱 Currently exploring Backend Development and Machine Learning
-* 🐍 Primary Language: Python
-* ⚡ Solved **288+ LeetCode** problems
-* 🎯 Aspiring Software Engineer
+- 🎓 B.Tech in Computer Science Engineering (AI/ML)
+- 💻 Passionate about Data Structures & Algorithms
+- 🌱 Currently learning Backend Development & Machine Learning
+- 🐍 Primary Programming Language: **Python**
+- ⚡ Solved **288+ LeetCode** problems
+- 🎯 Aspiring Software Engineer
 
 ---
 
@@ -63,18 +66,22 @@ Passionate about solving real-world problems through software engineering, compe
 
 # 🧠 Competitive Programming
 
-* ✅ Solved **288+ Problems**
-* 🐍 Most solutions in **Python**
-* 📈 Regularly practicing Data Structures & Algorithms
-* 🏆 Consistently improving through daily problem solving
-
-### 📊 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/saksham-_-singh?theme=dark\&font=Karma\&ext=contest)
+- ✅ Solved **288+ LeetCode Problems**
+- 🐍 Majority of solutions written in **Python**
+- 📈 Regularly practicing Data Structures & Algorithms
+- 🚀 Continuously improving problem-solving skills
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 LeetCode Statistics
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Karma&ext=contest"/>
+</p>
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -92,9 +99,13 @@ Passionate about solving real-world problems through software engineering, compe
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
-[![Saksham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sakshamsingh45\&theme=tokyo-night)](https://github.com/Sakshamsingh45)
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sakshamsingh45&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</p>
 
 ---
 
@@ -104,8 +115,10 @@ Passionate about solving real-world problems through software engineering, compe
 
 </p>
 
+---
+
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ <b>Always learning. Always building.</b>
 
 </p>
