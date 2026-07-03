@@ -58,14 +58,20 @@ Passionate about building software, solving algorithmic problems, and continuous
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakshamsingh45&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamsingh45&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" width="49%" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sakshamsingh45&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshamsingh45&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sakshamsingh45&theme=tokyonight&hide_border=true" width="60%" />
+
+<img width="60%" src="https://streak-stats.demolab.com?user=Sakshamsingh45&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
 
 ## 📈 Activity Graph
 
