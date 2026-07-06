@@ -55,13 +55,6 @@ Passionate about building software, solving algorithmic problems, and continuous
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=Sakshamsingh45&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
