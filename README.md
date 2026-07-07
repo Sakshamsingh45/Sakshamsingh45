@@ -55,9 +55,6 @@ Passionate about building software, solving algorithmic problems, and continuous
 
 ---
 
-
----
-
 ## 📈 Activity Graph
 
 <p align="center">
