@@ -9,17 +9,15 @@ Passionate about building software, solving algorithmic problems, and continuous
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/-saksham-singh/">
-    <img src="https://img.shields.io/badge/LinkedIn-1F2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://leetcode.com/u/saksham-_-singh/">
-    <img src="https://img.shields.io/badge/LeetCode-1F2937?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/>
-  </a>
-
-  <a href="mailto:sakshamsingh.vm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail"/>
-  </a>
+  <a href="https://www.linkedin.com/in/-saksham-singh/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> 
+  <a href="https://leetcode.com/u/saksham-_-singh/"> 
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/> 
+  </a> 
+  <a href="mailto:sakshamsingh.vm@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> 
+  </a> 
 </p>
 
 
