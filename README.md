@@ -54,13 +54,6 @@ Passionate about building software, solving algorithmic problems, and continuous
 
 ---
 
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sakshamsingh45&style=for-the-badge"/>
-
-</p>
-
 <p align="center">
 
 <i>Always learning. Always building.</i>
